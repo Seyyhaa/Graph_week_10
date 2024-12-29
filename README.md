@@ -24,7 +24,3 @@ The graph is represented using an adjacency list for efficiency.
 - **DFS (Iterative)**: `0 1 3 4 2`
 - **BFS**: `0 1 4 2 3`
 
-## How to Run
-1. Compile the program:
-   ```bash
-   g++ -o graph_traversal graph_traversal.cpp
