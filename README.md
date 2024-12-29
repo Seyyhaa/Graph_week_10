@@ -21,6 +21,6 @@ The graph is represented using an adjacency list for efficiency.
 
 ### Results
 - **DFS (Recursive)**: `0 1 2 3 4`
-- **DFS (Iterative)**: `0 1 3 4 2`
+- **DFS (Iterative)**: `0 1 2 3 4`
 - **BFS**: `0 1 4 2 3`
 
